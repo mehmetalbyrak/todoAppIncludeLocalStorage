@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Compiled files
+dist/
+build/
+
+# OS-generated files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Local development environment files
+*.local
+
+# IDE files
+.idea/
+.vscode/
+
+# Local storage files (if any specific generated files are known, add them)
+# *.storage.file.extension
+
+# HTML/CSS
+*.html~
+*.css~
+*.js~
+
+# Specific browser performance files (if any)
